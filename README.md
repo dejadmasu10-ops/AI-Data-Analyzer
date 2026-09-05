@@ -8,11 +8,18 @@ A Python project that analyzes sales data using Pandas and uses Gemini AI to gen
 - Cleans duplicate and missing data
 - Calculates key sales insights
 - Uses Gemini AI to generate a business report
-- Saves the report to a text file
+- Saves the generated report to a text file
+
+## Technologies Used
+
+- Python
+- Pandas
+- Google Gemini API
+- Git and GitHub
 
 ## Installation
 
 Install the required Python libraries:
 
 ```bash
-pip install pandas google-genai
+pip install -r requirements.txt
