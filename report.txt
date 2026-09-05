@@ -1,0 +1,32 @@
+Here is a short, easy-to-read business report based on your data:
+
+---
+
+# Business Performance Overview
+
+### Executive Summary
+This report highlights our recent sales performance, top-performing location, and transaction trends based on the latest data. 
+
+---
+
+### Key Findings
+
+* **Total Sales Revenue:** **8,400**  
+  Overall, the business generated 8,400 in total sales revenue across all completed transactions.
+
+* **Average Transaction Value:** **1,400**  
+  On average, a customer spends 1,400 per order or transaction.
+
+* **Top Performing City:** **Mumbai**  
+  Mumbai stands out as our leading market, generating the highest activity and value compared to other locations.
+
+* **Single Largest Sale:** **2,000**  
+  The highest individual transaction recorded was 2,000, which is about 43% higher than our average spend per transaction.
+
+---
+
+### What This Means (In Simple Terms)
+
+1. **Consistent Spend:** With a total revenue of 8,400 and an average of 1,400 per transaction, this data represents roughly **6 transactions**. This indicates steady, mid-to-high-value purchases rather than a high volume of small sales.
+2. **Key Market Focus:** **Mumbai** is currently our strongest revenue driver. Focusing marketing efforts and inventory in Mumbai will likely yield the highest return.
+3. **Upsell Opportunities:** Since the largest single transaction reached 2,000, customers are willing to make larger purchases. Encouraging more customers to reach this higher spending level could quickly boost overall sales.
